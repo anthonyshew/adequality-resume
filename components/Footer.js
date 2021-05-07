@@ -4,7 +4,7 @@ import Twitter from '@components/svg/Twitter'
 import LinkedIn from '@components/svg/LinkedIn'
 
 const Container = styled.footer`
-    max-width: 767px;
+    max-width: 768px;
     margin: 0 auto;
     margin-top: 50px;
     padding: 0 20px;

@@ -4,7 +4,7 @@ const Container = styled.main`
     max-width: 768px;
     min-height: 100vh;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 100px;
     padding:  0 20px;
     font-family: "Roboto";
     font-size: 14px;
