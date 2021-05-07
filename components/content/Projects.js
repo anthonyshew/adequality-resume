@@ -63,6 +63,15 @@ const Projects = ({ ...props }) => {
                     <a target="_blank" href="https://github.com/anthonyshew/inthezone" rel="noopener noreferrer">Source Code</a>
                 </SplitLinks>
             </Container>
+            <Container>
+                <Header>This Resume</Header>
+                <p>This opportunity is really exciting to me so I decided to put this together to hopefully stand out from the crowd.</p>
+                <p>We build website, applications, and mobile apps specializing in the baseball industry.</p>
+                <SplitLinks>
+                    <a target="_blank" href="https://anthony-at-adequality.netlify.app/" rel="noopener noreferrer">Visit it here.</a>
+                    <a target="_blank" href="https://github.com/anthonyshew/adequality-resume" rel="noopener noreferrer">Source Code</a>
+                </SplitLinks>
+            </Container>
         </>
     )
 }
