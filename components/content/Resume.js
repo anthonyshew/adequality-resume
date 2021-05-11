@@ -138,7 +138,7 @@ const Resume = ({ ...props }) => {
                 <ListItem>Javascript / Node / React.js / React Native</ListItem>
                 <ListItem>Gatsby.js / Next.js / Express.js</ListItem>
                 <ListItem>GraphQL / REST API Usage & Architecture</ListItem>
-                <ListItem>SQL, particuarly PostgreSQL</ListItem>
+                <ListItem>SQL, particularly PostgreSQL</ListItem>
                 <ListItem>D3.js, Chart.js & other data visualization frameworks</ListItem>
                 <ListItem>Figma, wireframing, and some image manipulation</ListItem>
             </List>
